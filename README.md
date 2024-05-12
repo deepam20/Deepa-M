@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepam20
+- 👋 Hi, I’m Deepa M
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Modern Development in my field
 - 💞️ I’m looking to collaborate on ...
